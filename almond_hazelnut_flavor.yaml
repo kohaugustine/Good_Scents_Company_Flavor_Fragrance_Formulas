@@ -1,0 +1,63 @@
+flavor_name: ALMOND HAZELNUT FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000.00
+  unit: KG
+Application: Dosage in a milk drink is 50 gr/100 liter (an analogous dosage applies for a maple, chocolate and coffee flavour, etc.).
+
+info: Patent 4,892,966 Acetoacetic acid ester derivatives for the manufacture of .alpha.-hydroxycarbonyl compounds
+
+ingredients:
+
+  VANILLIN:     
+    amount: 25.00
+    units:  KG
+    notes: 
+
+  2-ACETYL PYRAZINE: 
+    amount: 2.50
+    unit: KG
+    notes:
+
+  DIACETYL:
+    amount: 3.00
+    unit: KG
+    notes:
+
+  META-DIMETHYL HYDROQUINONE: 
+    amount: 3.00
+    unit: KG
+    notes:
+
+  FURFURAL: 
+    amount: 4.00
+    unit: KG
+    notes:
+
+  BENZALDEHYDE:
+    amount: 8.00
+    unit: KG
+    notes:
+
+  GAMMA-NONALACTONE:
+    amount: 1.00
+    unit: KG
+    notes:
+
+  2,3,5-TRIMETHYL PYRAZINE:
+    amount: 1.00
+    unit: KG
+    notes:
+
+  PROPYLENE GLYCOL:
+    amount: 946.50
+    unit: KG
+    notes:
+
+  2-HYDROXY-3,4,5-TRIMETHYL-2-CYCLOPENTEN-1-ONE:
+    amount: 6.00
+    unit: KG
+    notes:
+
