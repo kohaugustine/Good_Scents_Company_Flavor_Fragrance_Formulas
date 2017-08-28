@@ -1,0 +1,114 @@
+flavor_name: APPLE NO. 2
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000.00
+  unit: KG
+Application: fruit flavors
+
+info: Cosmetic, Fragrances and Flavors, Louis Appel, 1982, Novox, Inc. pg. 339
+
+ingredients:
+
+  ISOAMYL BUTYRATE:     
+    amount: 320.00
+    units:  KG
+    notes: 
+
+  ISOAMYL VALERATE: 
+    amount: 180.00
+    unit: KG
+    notes:
+
+  BENZYL FORMATE:
+    amount: 15.00
+    unit: KG
+    notes:
+
+  STYRALYL ACETATE:
+    amount: 20.00
+    unit: KG
+    notes:
+
+  GERANIUM OIL EGYPT:
+    amount: 20.00
+    unit: KG
+    notes:
+
+  PHENETHYL ACETATE:
+    amount: 40.00
+    unit: KG
+    notes:
+
+  PHENETHYL ALCOHOL:
+    amount: 20.00
+    unit: KG
+    notes:
+
+  GERANYL FORMATE:
+    amount: 5.00
+    unit: KG
+    notes:
+
+  CITRAL:
+    amount: 10.00
+    unit: KG
+    notes:
+
+  PARA-ANISALDEHYDE:
+    amount: 5.00
+    unit: KG
+    notes:
+
+  PHENETHYL BUTYRATE:
+    amount: 40.00
+    unit: KG
+    notes:
+
+  GERANIOL:
+    amount: 30.00
+    unit: KG
+    notes:
+
+  ISOAMYL PHENYL ACETATE:
+    amount: 50.00
+    unit: KG
+    notes:
+
+  CITRONELLOL:
+    amount: 20.00
+    unit: KG
+    notes:
+
+  CINNAMYL PROPIONATE:
+    amount: 40.00
+    unit: KG
+    notes:
+
+  MALTOL:
+    amount: 10.00
+    unit: KG
+    notes:
+
+  ALDEHYDE C-16:
+    amount: 20.00
+    unit: KG
+    notes:
+
+  ALDEHYDE C-14:
+    amount: 20.00
+    unit: KG
+    notes:
+
+  VANILLIN:
+    amount: 20.00
+    unit: KG
+    notes:
+
+  PROPYLENE GLYCOL:
+    amount: 115.00
+    unit: KG
+    notes:
+
+
