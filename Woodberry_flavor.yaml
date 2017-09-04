@@ -1,0 +1,212 @@
+flavor_name: WOODBERRY FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 100
+  unit: KG
+Application: FALSE
+
+info: Patent 7,105,194 Organoleptic compositions: use of 3-mercapto alkanoic acid esters as flavor ingredients
+
+ingredients:
+
+  BENZYL ACETATE:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  ETHYL ACETATE:
+    amount: 4
+    units:  KG
+    notes: 
+
+  ETHYL ISOVALERATE:
+    amount: 1.5
+    units:  KG
+    notes: 
+
+  CIS-3-HEXENOL:
+    amount: 0.1
+    units:  KG
+    notes: 
+
+  ALPHA-IONONE:
+    amount: 0.2
+    units:  KG
+    notes: 
+
+  LINALOOL:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  ISOAMYL ISOVALERATE:
+    amount: 0.3
+    units:  KG
+    notes: 
+
+  RASPBERRY KETONE:
+    amount: 2
+    units:  KG
+    notes: 
+
+  OMEGA-PENTADECALACTONE:
+    amount: 0.4
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  PROPYLENE GLYCOL:
+    amount: 90
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

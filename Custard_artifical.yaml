@@ -1,0 +1,212 @@
+flavor_name: CUSTARD ARTIFICAL
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: vanilla-type flavors
+
+info: Cosmetic, Fragrances and Flavors, Louis Appel, 1982, Novox, Inc. pg. 345
+
+ingredients:
+
+  RUM ETHER:
+    amount: 260
+    units:  KG
+    notes: 
+
+  ETHYL BUTYRATE:
+    amount: 20
+    units:  KG
+    notes: 
+
+  MACE OIL 10%:
+    amount: 50
+    units:  KG
+    notes: 
+
+  LEMON OIL:
+    amount: 20
+    units:  KG
+    notes: 
+
+  ORANGE PEEL OIL TERPENELESS:
+    amount: 2
+    units:  KG
+    notes: 
+
+  COGNAC OIL WHITE:
+    amount: 10
+    units:  KG
+    notes: 
+
+  BENZODIHYDROPYRONE:
+    amount: 70
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 560
+    units:  KG
+    notes: 
+
+  CONFECTIONARY ROSE FLAVOR:
+    amount: 8
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

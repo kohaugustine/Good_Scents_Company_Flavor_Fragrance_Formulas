@@ -1,0 +1,212 @@
+flavor_name: CARAMEL ARTIFICAL
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: butter-type flavors
+
+info: Cosmetic, Fragrances and Flavors, Louis Appel, 1982, Novox, Inc. pg. 345
+
+ingredients:
+
+  ETHYL BUTYRATE:
+    amount: 20
+    units:  KG
+    notes: 
+
+  ETHYL VALERATE 10%:
+    amount: 50
+    units:  KG
+    notes: 
+
+  BUTYRIC ACID:
+    amount: 30
+    units:  KG
+    notes: 
+
+  COGNAC OIL WHITE:
+    amount: 100
+    units:  KG
+    notes: 
+
+  BENZODIHYDROPYRONE:
+    amount: 100
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-16:
+    amount: 200
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-18:
+    amount: 200
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 200
+    units:  KG
+    notes: 
+
+  PROPYLENE GLYCOL:
+    amount: 100
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

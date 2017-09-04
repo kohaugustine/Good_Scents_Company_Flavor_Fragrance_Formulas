@@ -1,0 +1,212 @@
+flavor_name: VANILLA FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 100.2
+  unit: KG
+Application: FALSE
+
+info: Patent 3,960,860 2-Methyl-5,7-dihydrothieno-[3,4d]-pyrimidine
+
+ingredients:
+
+  MALTOL:
+    amount: 2
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 12
+    units:  KG
+    notes: 
+
+  ETHYL VANILLIN:
+    amount: 3
+    units:  KG
+    notes: 
+
+  PARA-ANISALDEHYDE 1%:
+    amount: 1
+    units:  KG
+    notes: 
+
+  POPCORN PYRIMIDINE 0.10%:
+    amount: 0.2
+    units:  KG
+    notes: 
+
+  PROPYLENE GLYCOL:
+    amount: 70
+    units:  KG
+    notes: 
+
+  ETHANOL 95%:
+    amount: 12
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

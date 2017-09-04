@@ -1,0 +1,212 @@
+flavor_name: BLACK CURRANT FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: FALSE
+
+info: Patent 5,321,005 Flavor and fragrance compositions produced using process for quantitatively and qualitatively substantially continuously analyzing the aroma emitted from a living fruit
+
+ingredients:
+
+  CIS-3-HEXENOL:
+    amount: 5
+    units:  KG
+    notes: 
+
+  ALPHA-PHELLANDRENE:
+    amount: 1.5
+    units:  KG
+    notes: 
+
+  ALPHA-TERPINEOL 10%:
+    amount: 3
+    units:  KG
+    notes: 
+
+  RASPBERRY KETONE:
+    amount: 5
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 2
+    units:  KG
+    notes: 
+
+  ETHYL MALTOL:
+    amount: 6
+    units:  KG
+    notes: 
+
+  METHYL BENZOATE:
+    amount: 2
+    units:  KG
+    notes: 
+
+  BENZALDEHYDE:
+    amount: 2
+    units:  KG
+    notes: 
+
+  BENZYL PROPIONATE:
+    amount: 4
+    units:  KG
+    notes: 
+
+  ISOBUTYL ACETATE:
+    amount: 5
+    units:  KG
+    notes: 
+
+  CORIANDER SEED OIL:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  ETHYL BUTYRATE:
+    amount: 8
+    units:  KG
+    notes: 
+
+  DIMETHYL SULFIDE:
+    amount: 3
+    units:  KG
+    notes: 
+
+  FUSEL OIL:
+    amount: 8
+    units:  KG
+    notes: 
+
+  ACETIC ACID:
+    amount: 10
+    units:  KG
+    notes: 
+
+  ALPHA-IONONE 10%:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  ETHYL HEPTANOATE:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  PROPYLENE GLYCOL:
+    amount: 934
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,212 @@
+flavor_name: MILKY FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: FALSE
+
+info: Patent 5,248,792 5-methyl-6-pentyl-tetrahydro-.alpha.-pyrone and analogs
+
+ingredients:
+
+  ACETOIN:
+    amount: 25
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 20
+    units:  KG
+    notes: 
+
+  MALTOL:
+    amount: 10
+    units:  KG
+    notes: 
+
+  DIACETYL:
+    amount: 10
+    units:  KG
+    notes: 
+
+  ETHYL LACTATE:
+    amount: 10
+    units:  KG
+    notes: 
+
+  DELTA-DECALACTONE:
+    amount: 10
+    units:  KG
+    notes: 
+
+  CAPROIC ACID:
+    amount: 7
+    units:  KG
+    notes: 
+
+  ETHYL BUTYRATE:
+    amount: 4
+    units:  KG
+    notes: 
+
+  CAPRYLIC ACID:
+    amount: 1
+    units:  KG
+    notes: 
+
+  CIS/TRANS-5-METHYL-6-PENTYLTETRAHYDRO-.ALPHA.-PYRONE:
+    amount: 10
+    units:  KG
+    notes: 
+
+  PROPYLENE GLYCOL:
+    amount: 893
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

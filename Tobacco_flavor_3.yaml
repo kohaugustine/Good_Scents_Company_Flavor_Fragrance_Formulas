@@ -1,0 +1,212 @@
+flavor_name: TOBACCO FLAVOR 3
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: FALSE
+
+info: Patent 4,570,648 Flavorants containing esters of 2,3,6,6-tetramethylcyclohexenyl carboxylic acids
+
+ingredients:
+
+  PARA-CYMENE:
+    amount: 1
+    units:  KG
+    notes: 
+
+  CAMPHOR:
+    amount: 2.5
+    units:  KG
+    notes: 
+
+  ALPHA-TERPINEOL:
+    amount: 3.5
+    units:  KG
+    notes: 
+
+  ETHYL PHENYL ACETATE:
+    amount: 4
+    units:  KG
+    notes: 
+
+  DEXTRO-LIMONENE:
+    amount: 5
+    units:  KG
+    notes: 
+
+  BETA-IONONE:
+    amount: 8
+    units:  KG
+    notes: 
+
+  FURFURAL:
+    amount: 10
+    units:  KG
+    notes: 
+
+  LINALOOL OXIDE:
+    amount: 10
+    units:  KG
+    notes: 
+
+  PHENETHYL ALCOHOL:
+    amount: 20
+    units:  KG
+    notes: 
+
+  PHENYL ACETIC ACID:
+    amount: 20
+    units:  KG
+    notes: 
+
+  LINALOOL:
+    amount: 20
+    units:  KG
+    notes: 
+
+  CIS-JASMONE:
+    amount: 20
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 30
+    units:  KG
+    notes: 
+
+  LAEVO-MENTHOL:
+    amount: 30
+    units:  KG
+    notes: 
+
+  2,3,5,6-TETRAMETHYL PYRAZINE:
+    amount: 30
+    units:  KG
+    notes: 
+
+  BENZALDEHYDE:
+    amount: 40
+    units:  KG
+    notes: 
+
+  BETA-CARYOPHYLLENE:
+    amount: 40
+    units:  KG
+    notes: 
+
+  GIVESCONE 10%:
+    amount: 10
+    units:  KG
+    notes: 
+
+  ETHANOL (DENATURED):
+    amount: 696
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

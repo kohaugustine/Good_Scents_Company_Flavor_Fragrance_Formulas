@@ -1,0 +1,212 @@
+flavor_name: RASPBERRY FLAVOR 2
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: FALSE
+
+info: Patent 4,570,648 Flavorants containing esters of 2,3,6,6-tetramethylcyclohexenyl carboxylic acids
+
+ingredients:
+
+  PARA-ANISYL FORMATE:
+    amount: 0.2
+    units:  KG
+    notes: 
+
+  METHYL ISOEUGENOL:
+    amount: 0.2
+    units:  KG
+    notes: 
+
+  LAEVO-BORNYL ACETATE 1%:
+    amount: 0.25
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 0.25
+    units:  KG
+    notes: 
+
+  ORRIS RHIZOME CONCRETE 10%:
+    amount: 0.4
+    units:  KG
+    notes: 
+
+  BETA-IONONE:
+    amount: 0.4
+    units:  KG
+    notes: 
+
+  ACETOIN 1%:
+    amount: 0.65
+    units:  KG
+    notes: 
+
+  HELIOTROPYL ACETATE:
+    amount: 1
+    units:  KG
+    notes: 
+
+  ALPHA-IONONE:
+    amount: 1.25
+    units:  KG
+    notes: 
+
+  ETHYL VALERATE:
+    amount: 2
+    units:  KG
+    notes: 
+
+  DIMETHYL SULFIDE 10%:
+    amount: 4
+    units:  KG
+    notes: 
+
+  CIS-3-HEXENOL:
+    amount: 5
+    units:  KG
+    notes: 
+
+  AMYL ALCOHOL:
+    amount: 5
+    units:  KG
+    notes: 
+
+  ETHYL BUTYRATE:
+    amount: 5
+    units:  KG
+    notes: 
+
+  ALPHA-TERPINEOL:
+    amount: 5
+    units:  KG
+    notes: 
+
+  ETHYL MALTOL:
+    amount: 5
+    units:  KG
+    notes: 
+
+  ISOBUTYRIC ACID:
+    amount: 10
+    units:  KG
+    notes: 
+
+  RASPBERRY KETONE:
+    amount: 12
+    units:  KG
+    notes: 
+
+  BENZYL ALCOHOL:
+    amount: 17.4
+    units:  KG
+    notes: 
+
+  ETHYL ACETATE:
+    amount: 25
+    units:  KG
+    notes: 
+
+  ETHANOL:
+    amount: 890
+    units:  KG
+    notes: 
+
+  GIVESCONE:
+    amount: 10
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,212 @@
+flavor_name: ROASTED HAZELNUT FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 100
+  unit: KG
+Application: FALSE
+
+info: Patent 6,426,108 Process for preparing hydroxyketones
+
+ingredients:
+
+  2-ACETYL PYRAZINE:
+    amount: 0.2
+    units:  KG
+    notes: 
+
+  BENZALDEHYDE:
+    amount: 0.2
+    units:  KG
+    notes: 
+
+  DIACETYL:
+    amount: 0.3
+    units:  KG
+    notes: 
+
+  META-DIMETHYL HYDROQUINONE:
+    amount: 0.2
+    units:  KG
+    notes: 
+
+  METHYL CORYLONE:
+    amount: 0.6
+    units:  KG
+    notes: 
+
+  5-METHYL FURFURAL:
+    amount: 0.4
+    units:  KG
+    notes: 
+
+  GAMMA-NONALACTONE:
+    amount: 0.1
+    units:  KG
+    notes: 
+
+  PROPYLENE GLYCOL:
+    amount: 94.9
+    units:  KG
+    notes: 
+
+  2,3,5-TRIMETHYL PYRAZINE:
+    amount: 0.1
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 2
+    units:  KG
+    notes: 
+
+  3(2)-HYDROXY-5-METHYL-2(3)-HEXANONE:
+    amount: 1
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

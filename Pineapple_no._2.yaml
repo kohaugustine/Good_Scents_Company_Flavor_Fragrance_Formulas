@@ -1,0 +1,212 @@
+flavor_name: PINEAPPLE NO. 2
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: fruit flavors
+
+info: Cosmetic, Fragrances and Flavors, Louis Appel, 1982, Novox, Inc. pg. 341
+
+ingredients:
+
+  RUM ETHER:
+    amount: 10
+    units:  KG
+    notes: 
+
+  ETHYL ACETATE:
+    amount: 10
+    units:  KG
+    notes: 
+
+  ETHYL BUTYRATE:
+    amount: 30
+    units:  KG
+    notes: 
+
+  ETHYL CAPROATE:
+    amount: 200
+    units:  KG
+    notes: 
+
+  ALLYL CAPROATE:
+    amount: 200
+    units:  KG
+    notes: 
+
+  ALLYL HEPTANOATE:
+    amount: 150
+    units:  KG
+    notes: 
+
+  ETHYL OENANTHATE:
+    amount: 100
+    units:  KG
+    notes: 
+
+  ORANGE OIL:
+    amount: 5
+    units:  KG
+    notes: 
+
+  ETHYL PELARGONATE:
+    amount: 5
+    units:  KG
+    notes: 
+
+  COGNAC OIL WHITE:
+    amount: 5
+    units:  KG
+    notes: 
+
+  PALMAROSA OIL:
+    amount: 5
+    units:  KG
+    notes: 
+
+  ETHYL PHENYL ACETATE:
+    amount: 5
+    units:  KG
+    notes: 
+
+  CINNAMALDEHYDE:
+    amount: 5
+    units:  KG
+    notes: 
+
+  ETHYL CINNAMATE:
+    amount: 20
+    units:  KG
+    notes: 
+
+  CINNAMYL BUTYRATE:
+    amount: 5
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-16:
+    amount: 10
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-14:
+    amount: 10
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 5
+    units:  KG
+    notes: 
+
+  PROPYLENE GLYCOL:
+    amount: 220
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,212 @@
+flavor_name: CAKE FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1040
+  unit: KG
+Application: FALSE
+
+info: Patent 3,942,537 Novel flavoring compositions and processes
+
+ingredients:
+
+  VANILLIN:
+    amount: 40
+    units:  KG
+    notes: 
+
+  ETHYL VANILLIN:
+    amount: 15
+    units:  KG
+    notes: 
+
+  BENZODIHYDROPYRONE:
+    amount: 5
+    units:  KG
+    notes: 
+
+  RUM ETHER:
+    amount: 5
+    units:  KG
+    notes: 
+
+  ETHANOL 95%:
+    amount: 235
+    units:  KG
+    notes: 
+
+  PROPYLENE GLYCOL:
+    amount: 400
+    units:  KG
+    notes: 
+
+  WATER:
+    amount: 300
+    units:  KG
+    notes: 
+
+  2,7-DIMETHYL-5,7-DIHYDROFURO-[3,4-D]-PYRIMIDINE:
+    amount: 40
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

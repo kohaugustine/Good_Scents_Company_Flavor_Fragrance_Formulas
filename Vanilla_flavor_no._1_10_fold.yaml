@@ -1,0 +1,212 @@
+flavor_name: VANILLA FLAVOR NO. 1 10 FOLD
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: vanilla-type flavors
+
+info: Cosmetic, Fragrances and Flavors, Louis Appel, 1982, Novox, Inc. pg. 346
+
+ingredients:
+
+  VANILLA OLEORESIN:
+    amount: 250
+    units:  KG
+    notes: 
+
+  VANILLA EXTRACT:
+    amount: 640
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 10
+    units:  KG
+    notes: 
+
+  GLYCERINE:
+    amount: 100
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

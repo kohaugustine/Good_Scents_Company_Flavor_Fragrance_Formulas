@@ -1,0 +1,97 @@
+flavor_name: APRICOT FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 948.8
+  unit: KG
+Application: FALSE
+
+info: Patent 4,305,411 Acetyl hydrindacenes, acetyl indanes, mixtures of same, processes for preparing same and organoleptic uses thereof
+
+ingredients:
+
+  ALPHA-IONONE:
+    amount: 30
+    units:  KG
+    notes: 
+
+  ETHYL OENANTHATE:
+    amount: 30
+    units:  KG
+    notes: 
+
+  BENZALDEHYDE:
+    amount: 120
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 84
+    units:  KG
+    notes: 
+
+  ETHYL ALCOHOL:
+    amount: 150
+    units:  KG
+    notes: 
+
+  CINNAMALDEHYDE:
+    amount: 0.4
+    units:  KG
+    notes: 
+
+  GERANIOL:
+    amount: 0.4
+    units:  KG
+    notes: 
+
+  BENZALDEHYDE COULD BE CIS-3-HEXENOL:
+    amount: 2
+    units:  KG
+    notes: 
+
+  AMYL BUTYRATE:
+    amount: 8
+    units:  KG
+    notes: 
+
+  AMYL ACETATE:
+    amount: 8
+    units:  KG
+    notes: 
+
+  AMYL VALERATE:
+    amount: 15
+    units:  KG
+    notes: 
+
+  AMYL FORMATE:
+    amount: 18
+    units:  KG
+    notes: 
+
+  ETHYL HEXANOATE:
+    amount: 19
+    units:  KG
+    notes: 
+
+  NEROLI OIL:
+    amount: 20
+    units:  KG
+    notes: 
+
+  ETHYL VALERATE:
+    amount: 44
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-14:
+    amount: 100
+    units:  KG
+    notes: 
+
+  PROPYLENE GLYCOL:
+    amount: 300
+    units:  KG
+    notes: 

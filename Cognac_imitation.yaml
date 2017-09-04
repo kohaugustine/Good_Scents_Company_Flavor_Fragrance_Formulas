@@ -1,0 +1,212 @@
+flavor_name: COGNAC IMITATION
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: flavors for alcoholic beverages
+
+info: Cosmetic, Fragrances and Flavors, Louis Appel, 1982, Novox, Inc. pg. 346
+
+ingredients:
+
+  RUM ETHER:
+    amount: 100
+    units:  KG
+    notes: 
+
+  ETHYL ACETATE:
+    amount: 170
+    units:  KG
+    notes: 
+
+  CINNAMYL CINNAMATE:
+    amount: 7
+    units:  KG
+    notes: 
+
+  CITRAL:
+    amount: 7
+    units:  KG
+    notes: 
+
+  CINNAMALDEHYDE:
+    amount: 3
+    units:  KG
+    notes: 
+
+  ETHYL DECANOATE:
+    amount: 500
+    units:  KG
+    notes: 
+
+  GINGER OLEORESIN:
+    amount: 3
+    units:  KG
+    notes: 
+
+  CADE OIL 10%:
+    amount: 7
+    units:  KG
+    notes: 
+
+  MALTOL 1%:
+    amount: 100
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-18:
+    amount: 3
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 100
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

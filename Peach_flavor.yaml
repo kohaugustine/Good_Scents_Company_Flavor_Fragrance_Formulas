@@ -1,0 +1,212 @@
+flavor_name: PEACH FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: FALSE
+
+info: Patent 4,305,411 Acetyl hydrindacenes, acetyl indanes, mixtures of same, processes for preparing same and organoleptic uses thereof
+
+ingredients:
+
+  VANILLIN:
+    amount: 168
+    units:  KG
+    notes: 
+
+  ETHANOL:
+    amount: 304.5
+    units:  KG
+    notes: 
+
+  CINNAMALDEHYDE:
+    amount: 0.75
+    units:  KG
+    notes: 
+
+  GERANIOL:
+    amount: 0.75
+    units:  KG
+    notes: 
+
+  BENZALDEHYDE:
+    amount: 4
+    units:  KG
+    notes: 
+
+  AMYL BUTYRATE:
+    amount: 16
+    units:  KG
+    notes: 
+
+  AMYL ACETATE:
+    amount: 16
+    units:  KG
+    notes: 
+
+  AMYL VALERATE:
+    amount: 30
+    units:  KG
+    notes: 
+
+  AMYL FORMATE:
+    amount: 36
+    units:  KG
+    notes: 
+
+  ETHYL HEXANOATE:
+    amount: 38
+    units:  KG
+    notes: 
+
+  NEROLI OIL:
+    amount: 48
+    units:  KG
+    notes: 
+
+  ETHYL VALERATE:
+    amount: 88
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-14:
+    amount: 250
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

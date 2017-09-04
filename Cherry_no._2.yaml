@@ -1,0 +1,212 @@
+flavor_name: CHERRY NO. 2
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: fruit flavors
+
+info: Cosmetic, Fragrances and Flavors, Louis Appel, 1982, Novox, Inc. pg. 339
+
+ingredients:
+
+  ETHYL BUTYRATE:
+    amount: 20
+    units:  KG
+    notes: 
+
+  ISOAMYL BUTYRATE:
+    amount: 200
+    units:  KG
+    notes: 
+
+  BENZALDEHYDE:
+    amount: 350
+    units:  KG
+    notes: 
+
+  TOLYL ALDEHYDE (MIXED 2,3,4):
+    amount: 100
+    units:  KG
+    notes: 
+
+  ETHYL OENANTHATE:
+    amount: 35
+    units:  KG
+    notes: 
+
+  TOLYL ACETATE (MIXED O,M,P):
+    amount: 50
+    units:  KG
+    notes: 
+
+  CASSIA OIL:
+    amount: 15
+    units:  KG
+    notes: 
+
+  PARA-ANISALDEHYDE:
+    amount: 50
+    units:  KG
+    notes: 
+
+  EUGENOL:
+    amount: 5
+    units:  KG
+    notes: 
+
+  PARA-ANISYL ACETATE:
+    amount: 35
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-16:
+    amount: 70
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 70
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

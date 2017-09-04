@@ -1,0 +1,212 @@
+flavor_name: TOBACCO FLAVOR 2
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: FALSE
+
+info: Patent 4,617,146 Substituted bicyclo[4.3.0]non-1(6)-en-8-yl methyl ketones and fragrance and flavor compositions
+
+ingredients:
+
+  LINALYL ACETATE 10%:
+    amount: 0.3
+    units:  KG
+    notes: 
+
+  CINNAMALDEHYDE 10%:
+    amount: 0.4
+    units:  KG
+    notes: 
+
+  GERANIOL:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  ANGELICA ROOT OIL:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  AMYL BUTYRATE:
+    amount: 1
+    units:  KG
+    notes: 
+
+  AMYL VALERATE:
+    amount: 1
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 2
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-18:
+    amount: 2
+    units:  KG
+    notes: 
+
+  PETITGRAIN OIL SA:
+    amount: 2
+    units:  KG
+    notes: 
+
+  BENZALDEHYDE:
+    amount: 2.5
+    units:  KG
+    notes: 
+
+  ORANGE PEEL OIL 10 FOLD:
+    amount: 5
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-14:
+    amount: 15
+    units:  KG
+    notes: 
+
+  ETHANOL:
+    amount: 957.8
+    units:  KG
+    notes: 
+
+  2,2,5,5-TETRAMETHYL-BICYCLO[4.3.0]NON-1(6)-EN-8-YL METHYL KETONE:
+    amount: 10
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

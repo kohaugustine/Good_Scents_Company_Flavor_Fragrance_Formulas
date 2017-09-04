@@ -1,0 +1,212 @@
+flavor_name: CHOCOLATE FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: 0.1% in milk drinks, etc.
+
+info: Patent 5,179,077 4-methyl-3-pentyl-2(5H)-furanone
+
+ingredients:
+
+  VANILLIN:
+    amount: 80
+    units:  KG
+    notes: 
+
+  PHENYL ACETIC ACID:
+    amount: 3
+    units:  KG
+    notes: 
+
+  ETHYL VANILLIN:
+    amount: 50
+    units:  KG
+    notes: 
+
+  COCOA SHELL EXTRACT PG:
+    amount: 850.8
+    units:  KG
+    notes: 
+
+  BENZALDEHYDE:
+    amount: 0.2
+    units:  KG
+    notes: 
+
+  ISOBUTYRIC ACID:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  PHENETHYL ALCOHOL:
+    amount: 2
+    units:  KG
+    notes: 
+
+  ETHYL PHENYL ACETATE:
+    amount: 1.5
+    units:  KG
+    notes: 
+
+  ISOVALERALDEHYDE:
+    amount: 2
+    units:  KG
+    notes: 
+
+  3,5(6)-COCOA PYRAZINE:
+    amount: 2
+    units:  KG
+    notes: 
+
+  ISOBUTYRALDEHYDE:
+    amount: 1
+    units:  KG
+    notes: 
+
+  2,3,5-TRIMETHYL PYRAZINE:
+    amount: 2
+    units:  KG
+    notes: 
+
+  4-METHYL-3-PENTYL-2(5H)-FURANONE:
+    amount: 5
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

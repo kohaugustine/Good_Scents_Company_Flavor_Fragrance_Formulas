@@ -1,0 +1,212 @@
+flavor_name: COLA FLAVOR B
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: soft drink flavors
+
+info: Cosmetic, Fragrances and Flavors, Louis Appel, 1982, Novox, Inc. pg. 344
+
+ingredients:
+
+  LEMON OIL:
+    amount: 400
+    units:  KG
+    notes: 
+
+  ORANGE PEEL OIL C.P. CALIFORNIA:
+    amount: 200
+    units:  KG
+    notes: 
+
+  LIME OIL DISTILLED MEXICO:
+    amount: 200
+    units:  KG
+    notes: 
+
+  CINNAMYL CINNAMATE:
+    amount: 10
+    units:  KG
+    notes: 
+
+  CINNAMALDEHYDE:
+    amount: 150
+    units:  KG
+    notes: 
+
+  EUGENOL:
+    amount: 20
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 20
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

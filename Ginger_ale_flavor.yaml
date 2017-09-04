@@ -1,0 +1,212 @@
+flavor_name: GINGER ALE FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: soft drink flavors
+
+info: Cosmetic, Fragrances and Flavors, Louis Appel, 1982, Novox, Inc. pg. 344
+
+ingredients:
+
+  LEMON OIL:
+    amount: 80
+    units:  KG
+    notes: 
+
+  ORANGE OIL:
+    amount: 25
+    units:  KG
+    notes: 
+
+  LIME OIL DISTILLED MEXICO:
+    amount: 80
+    units:  KG
+    notes: 
+
+  CITRAL:
+    amount: 25
+    units:  KG
+    notes: 
+
+  CLOVE BUD OIL:
+    amount: 30
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 10
+    units:  KG
+    notes: 
+
+  CAPSICUM OLEORESIN:
+    amount: 250
+    units:  KG
+    notes: 
+
+  GINGER OLEORESIN:
+    amount: 500
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

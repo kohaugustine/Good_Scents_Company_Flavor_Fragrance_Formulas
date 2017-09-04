@@ -1,0 +1,212 @@
+flavor_name: PEACH NO. 1
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: fruit flavors
+
+info: Cosmetic, Fragrances and Flavors, Louis Appel, 1982, Novox, Inc. pg. 340
+
+ingredients:
+
+  RUM ETHER:
+    amount: 10
+    units:  KG
+    notes: 
+
+  ETHYL PROPIONATE:
+    amount: 10
+    units:  KG
+    notes: 
+
+  ETHYL ACETATE:
+    amount: 10
+    units:  KG
+    notes: 
+
+  ETHYL BUTYRATE:
+    amount: 20
+    units:  KG
+    notes: 
+
+  ISOAMYL BUTYRATE:
+    amount: 330
+    units:  KG
+    notes: 
+
+  ETHYL CAPROATE:
+    amount: 5
+    units:  KG
+    notes: 
+
+  ETHYL HEPTANOATE:
+    amount: 30
+    units:  KG
+    notes: 
+
+  TOLYL ALDEHYDE (MIXED 2,3,4):
+    amount: 5
+    units:  KG
+    notes: 
+
+  TOLYL ACETATE (MIXED O,M,P):
+    amount: 20
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-9 10%:
+    amount: 5
+    units:  KG
+    notes: 
+
+  GERANIUM OIL AFRICA:
+    amount: 5
+    units:  KG
+    notes: 
+
+  CITRONELLYL ACETATE:
+    amount: 15
+    units:  KG
+    notes: 
+
+  GERANIOL:
+    amount: 15
+    units:  KG
+    notes: 
+
+  PARA-ANISALDEHYDE:
+    amount: 10
+    units:  KG
+    notes: 
+
+  CITRONELLOL:
+    amount: 40
+    units:  KG
+    notes: 
+
+  CITRONELLYL BUTYRATE:
+    amount: 25
+    units:  KG
+    notes: 
+
+  ALPHA-IONONE:
+    amount: 10
+    units:  KG
+    notes: 
+
+  ORRIS RHIZOME CONCRETE 10%:
+    amount: 20
+    units:  KG
+    notes: 
+
+  BENZODIHYDROPYRONE:
+    amount: 15
+    units:  KG
+    notes: 
+
+  HELIOTROPIN:
+    amount: 30
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-14:
+    amount: 250
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 10
+    units:  KG
+    notes: 
+
+  PROPYLENE GLYCOL:
+    amount: 110
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,77 @@
+flavor_name: APRICOT FLAVOUR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 999.5
+  unit: KG
+Application: FALSE
+
+info: Patent 4,439,353 Esters of substituted 2,2-dimethylcyclohexanoic acid
+
+ingredients:
+
+  LINALYL ACETATE 10%:
+    amount: 0.3
+    units:  KG
+    notes: 
+
+  CINNAMALDEHYDE 10%:
+    amount: 0.4
+    units:  KG
+    notes: 
+
+  ANGELICA ROOT OIL:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  AMYL BUTYRATE:
+    amount: 1
+    units:  KG
+    notes: 
+
+  AMYL VALERATE:
+    amount: 1
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 2
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-18:
+    amount: 2
+    units:  KG
+    notes: 
+
+  PETITGRAIN OIL SA:
+    amount: 2
+    units:  KG
+    notes: 
+
+  BENZALDEHYDE:
+    amount: 2.5
+    units:  KG
+    notes: 
+
+  ORANGE OIL:
+    amount: 5
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-14:
+    amount: 15
+    units:  KG
+    notes: 
+
+  ETHANOL:
+    amount: 947.8
+    units:  KG
+    notes: 
+
+  GIVESCONE 10%:
+    amount: 20
+    units:  KG
+    notes: 

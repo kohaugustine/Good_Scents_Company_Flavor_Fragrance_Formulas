@@ -1,0 +1,212 @@
+flavor_name: WALNUT FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: fruit flavors
+
+info: Cosmetic, Fragrances and Flavors, Louis Appel, 1982, Novox, Inc. pg. 342
+
+ingredients:
+
+  PARA-CRESYL METHYL ETHER:
+    amount: 1
+    units:  KG
+    notes: 
+
+  ETHYL VALERATE:
+    amount: 3
+    units:  KG
+    notes: 
+
+  ISOAMYL VALERATE:
+    amount: 16
+    units:  KG
+    notes: 
+
+  PARA-CRESYL PHENYL ACETATE 10%:
+    amount: 68
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-18:
+    amount: 1
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-14:
+    amount: 1
+    units:  KG
+    notes: 
+
+  HELIOTROPIN 10%:
+    amount: 25
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 15
+    units:  KG
+    notes: 
+
+  FENUGREEK TINCTURE:
+    amount: 370
+    units:  KG
+    notes: 
+
+  ETHYL ALCOHOL:
+    amount: 500
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

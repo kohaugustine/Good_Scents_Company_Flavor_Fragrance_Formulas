@@ -1,0 +1,212 @@
+flavor_name: VANILLA FLAVOR 2
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 100
+  unit: KG
+Application: FALSE
+
+info: Patent 3,961,093 Novel flavoring compositions and products containing 2-methyl-3-thio-(2-methylbutyryl)-furan
+
+ingredients:
+
+  MALTOL:
+    amount: 2
+    units:  KG
+    notes: 
+
+  ETHYL VANILLIN:
+    amount: 5
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 18
+    units:  KG
+    notes: 
+
+  DIHYDROCOUMARIN 10%:
+    amount: 1
+    units:  KG
+    notes: 
+
+  PARA-ANISALDEHYDE 1%:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  PERU BALSAM 1%:
+    amount: 1.5
+    units:  KG
+    notes: 
+
+  ETHANOL:
+    amount: 72
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

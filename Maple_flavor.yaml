@@ -1,0 +1,212 @@
+flavor_name: MAPLE FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: vanilla-type flavors
+
+info: Cosmetic, Fragrances and Flavors, Louis Appel, 1982, Novox, Inc. pg. 345
+
+ingredients:
+
+  CAROB TINCTURE:
+    amount: 300
+    units:  KG
+    notes: 
+
+  CLARY SAGE TINCTURE:
+    amount: 30
+    units:  KG
+    notes: 
+
+  LOVAGE ROOT TINCTURE:
+    amount: 12
+    units:  KG
+    notes: 
+
+  ETHYL PHENYL ACETATE 10%:
+    amount: 1
+    units:  KG
+    notes: 
+
+  FENUGREEK RESINOID:
+    amount: 6
+    units:  KG
+    notes: 
+
+  ETHONE 10%:
+    amount: 2
+    units:  KG
+    notes: 
+
+  BENZODIHYDROPYRONE 10%:
+    amount: 15
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 4
+    units:  KG
+    notes: 
+
+  SUGAR INVERT:
+    amount: 100
+    units:  KG
+    notes: 
+
+  CARAMEL COLOR:
+    amount: 30
+    units:  KG
+    notes: 
+
+  WATER:
+    amount: 500
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

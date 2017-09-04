@@ -1,0 +1,112 @@
+flavor_name: APRICOT TOBACCO FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: FALSE
+
+info: Patent 4,669,490 Novel flavor compositions and tobacco products containing cis-3,7-dimethylocta-3,6-dienoic acid
+
+ingredients:
+
+  ALPHA-TERPINYL ACETATE:
+    amount: 0.25
+    units:  KG
+    notes: 
+
+  METHYL ANTHRANILATE:
+    amount: 0.25
+    units:  KG
+    notes: 
+
+  LINALYL ACETATE:
+    amount: 0.3
+    units:  KG
+    notes: 
+
+  NEROL:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  CINNAMALDEHYDE:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  GERANIOL:
+    amount: 1.5
+    units:  KG
+    notes: 
+
+  PETITGRAIN OIL SA:
+    amount: 2.5
+    units:  KG
+    notes: 
+
+  AMYL BUTYRATE:
+    amount: 10
+    units:  KG
+    notes: 
+
+  ISOAMYL ACETATE:
+    amount: 10
+    units:  KG
+    notes: 
+
+  ISOAMYL ISOVALERATE:
+    amount: 15
+    units:  KG
+    notes: 
+
+  AMYL FORMATE:
+    amount: 20
+    units:  KG
+    notes: 
+
+  ETHYL CAPROATE:
+    amount: 20
+    units:  KG
+    notes: 
+
+  ALPHA-IONONE:
+    amount: 30
+    units:  KG
+    notes: 
+
+  ETHYL OENANTHATE:
+    amount: 30
+    units:  KG
+    notes: 
+
+  ETHYL ISOVALERATE:
+    amount: 45
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 85
+    units:  KG
+    notes: 
+
+  BENZALDEHYDE:
+    amount: 120
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-14:
+    amount: 125
+    units:  KG
+    notes: 
+
+  ETHYL ALCOHOL:
+    amount: 464.2
+    units:  KG
+    notes: 
+
+  (Z)-ISOGERANIC ACID:
+    amount: 20
+    units:  KG
+    notes: 

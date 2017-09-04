@@ -1,0 +1,212 @@
+flavor_name: SOUR MILK FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 970
+  unit: KG
+Application: FALSE
+
+info: Patent EP2049509 A2 New furyl thioalkanals useful in the flavor industry
+
+ingredients:
+
+  ETHYL ACETATE 10%:
+    amount: 40
+    units:  KG
+    notes: 
+
+  ACETIC ACID:
+    amount: 50
+    units:  KG
+    notes: 
+
+  LACTIC ACID:
+    amount: 300
+    units:  KG
+    notes: 
+
+  TARTARIC ACID:
+    amount: 35
+    units:  KG
+    notes: 
+
+  ETHANOL:
+    amount: 220
+    units:  KG
+    notes: 
+
+  FURFURYL ALCOHOL:
+    amount: 15
+    units:  KG
+    notes: 
+
+  GAMMA-NONALACTONE:
+    amount: 1
+    units:  KG
+    notes: 
+
+  LEMON OIL 10%:
+    amount: 60
+    units:  KG
+    notes: 
+
+  MALTOL:
+    amount: 20
+    units:  KG
+    notes: 
+
+  DIACETYL:
+    amount: 6
+    units:  KG
+    notes: 
+
+  GAMMA-DODECALACTONE:
+    amount: 1
+    units:  KG
+    notes: 
+
+  ETHYL LAURATE:
+    amount: 20
+    units:  KG
+    notes: 
+
+  STRAWBERRY FURANONE 15%:
+    amount: 65
+    units:  KG
+    notes: 
+
+  INDOLE 0.10%:
+    amount: 45
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 20
+    units:  KG
+    notes: 
+
+  PROPYLENE GLYCOL:
+    amount: 72
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,212 @@
+flavor_name: PEAR FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: FALSE
+
+info: Patent 3,966,799 Alkyl esters of 2-methyl-4-pentenoic acid
+
+ingredients:
+
+  VANILLIN:
+    amount: 2
+    units:  KG
+    notes: 
+
+  ETHYL HEXANOATE:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  ETHYL DECANOATE:
+    amount: 1
+    units:  KG
+    notes: 
+
+  BENZYL ACETATE:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  ETHYL OCTANOATE:
+    amount: 2
+    units:  KG
+    notes: 
+
+  GAMMA-UNDECALACTONE 10%:
+    amount: 2
+    units:  KG
+    notes: 
+
+  ALPHA-IONONE 0.10%:
+    amount: 5
+    units:  KG
+    notes: 
+
+  HEXYL ACETATE:
+    amount: 25
+    units:  KG
+    notes: 
+
+  LEMON OIL C.P. CALIFORNIA:
+    amount: 5
+    units:  KG
+    notes: 
+
+  ETHYL BUTYRATE:
+    amount: 7
+    units:  KG
+    notes: 
+
+  ETHYL ACETATE:
+    amount: 40
+    units:  KG
+    notes: 
+
+  BUTYL ACETATE:
+    amount: 20
+    units:  KG
+    notes: 
+
+  AMYL VALERATE:
+    amount: 65
+    units:  KG
+    notes: 
+
+  AMYL ACETATE:
+    amount: 640
+    units:  KG
+    notes: 
+
+  ETHANOL:
+    amount: 185
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

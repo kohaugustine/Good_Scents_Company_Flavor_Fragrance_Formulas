@@ -1,0 +1,162 @@
+flavor_name: BACON FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 2005
+  unit: KG
+Application: FALSE
+
+info: Patent EP2049509 A2 New furyl thioalkanals useful in the flavor industry
+
+ingredients:
+
+  2-ACETYL PYRAZINE 1%:
+    amount: 25
+    units:  KG
+    notes: 
+
+  CARVACROL:
+    amount: 5
+    units:  KG
+    notes: 
+
+  BENZYL DISULFIDE 10%:
+    amount: 5
+    units:  KG
+    notes: 
+
+  2,4-DECADIENAL 1%:
+    amount: 15
+    units:  KG
+    notes: 
+
+  2,3-DIMETHYL BENZOFURAN 10%:
+    amount: 15
+    units:  KG
+    notes: 
+
+  2-ETHYL-3-METHYL PYRAZINE 10%:
+    amount: 35
+    units:  KG
+    notes: 
+
+  4,5-DIHYDRO-2-METHYL-3(2H)-THIOPHENONE 10%:
+    amount: 25
+    units:  KG
+    notes: 
+
+  MAPLE FURANONE 1%:
+    amount: 20
+    units:  KG
+    notes: 
+
+  (E)-2-OCTENAL 10%:
+    amount: 10
+    units:  KG
+    notes: 
+
+  ORTHO-CRESOL 10%:
+    amount: 5
+    units:  KG
+    notes: 
+
+  QUINOLEINE 10%:
+    amount: 25
+    units:  KG
+    notes: 
+
+  VANILLIN 10%:
+    amount: 35
+    units:  KG
+    notes: 
+
+  ACETYL PROPIONYL:
+    amount: 25
+    units:  KG
+    notes: 
+
+  ACETIC ACID:
+    amount: 60
+    units:  KG
+    notes: 
+
+  NONANOIC ACID:
+    amount: 60
+    units:  KG
+    notes: 
+
+  METHYLNUSSOL 1%:
+    amount: 15
+    units:  KG
+    notes: 
+
+  DECANOIC ACID:
+    amount: 60
+    units:  KG
+    notes: 
+
+  ISOBUTYRIC ACID:
+    amount: 35
+    units:  KG
+    notes: 
+
+  PYROLIGNEOUS ACIDS HICKORY:
+    amount: 250
+    units:  KG
+    notes: 
+
+  DELTA-DODECALACTONE:
+    amount: 15
+    units:  KG
+    notes: 
+
+  STRAWBERRY FURANONE:
+    amount: 30
+    units:  KG
+    notes: 
+
+  GUAIACOL:
+    amount: 35
+    units:  KG
+    notes: 
+
+  ISOEUGENOL:
+    amount: 60
+    units:  KG
+    notes: 
+
+  6-METHYL-3,5-HEPTADIEN-2-ONE:
+    amount: 30
+    units:  KG
+    notes: 
+
+  4-PROPYL PHENOL:
+    amount: 25
+    units:  KG
+    notes: 
+
+  LABDANUM OIL 10%:
+    amount: 20
+    units:  KG
+    notes: 
+
+  4-ETHYL GUAIACOL:
+    amount: 20
+    units:  KG
+    notes: 
+
+  NUSSOL EXTRA:
+    amount: 15
+    units:  KG
+    notes: 
+
+  PYRIDINE:
+    amount: 15
+    units:  KG
+    notes: 
+
+  ORTHO-THIOCRESOL:
+    amount: 15
+    units:  KG
+    notes: 

@@ -1,0 +1,212 @@
+flavor_name: STRAWBERRY NO. 1
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: fruit flavors
+
+info: Cosmetic, Fragrances and Flavors, Louis Appel, 1982, Novox, Inc. pg. 341
+
+ingredients:
+
+  DIACETYL:
+    amount: 5
+    units:  KG
+    notes: 
+
+  ETHYL VALERATE:
+    amount: 30
+    units:  KG
+    notes: 
+
+  DIPROPYL KETONE:
+    amount: 100
+    units:  KG
+    notes: 
+
+  ETHYL LACTATE:
+    amount: 300
+    units:  KG
+    notes: 
+
+  BUTYRIC ACID:
+    amount: 15
+    units:  KG
+    notes: 
+
+  ETHYL OENANTHATE:
+    amount: 50
+    units:  KG
+    notes: 
+
+  METHYL SALICYLATE:
+    amount: 5
+    units:  KG
+    notes: 
+
+  METHYL HEPTINE CARBONATE:
+    amount: 9
+    units:  KG
+    notes: 
+
+  CINNAMYL BUTYRATE:
+    amount: 1
+    units:  KG
+    notes: 
+
+  CINNAMYL VALERATE:
+    amount: 20
+    units:  KG
+    notes: 
+
+  MALTOL:
+    amount: 35
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-16:
+    amount: 125
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-14:
+    amount: 15
+    units:  KG
+    notes: 
+
+  VANILLIN:
+    amount: 15
+    units:  KG
+    notes: 
+
+  ORRIS RHIZOME TINCTURE 5%:
+    amount: 150
+    units:  KG
+    notes: 
+
+  PROPYLENE GLYCOL:
+    amount: 125
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

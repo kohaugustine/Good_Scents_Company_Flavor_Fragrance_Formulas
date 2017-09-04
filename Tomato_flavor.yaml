@@ -1,0 +1,212 @@
+flavor_name: TOMATO FLAVOR
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 1000
+  unit: KG
+Application: FALSE
+
+info: Patent EP2049509 A2 New furyl thioalkanals useful in the flavor industry
+
+ingredients:
+
+  OCTANOIC ACID:
+    amount: 10
+    units:  KG
+    notes: 
+
+  ALDEHYDE C-6:
+    amount: 20
+    units:  KG
+    notes: 
+
+  PROPIONALDEHYDE:
+    amount: 5
+    units:  KG
+    notes: 
+
+  DAMASCENONE 50%:
+    amount: 5
+    units:  KG
+    notes: 
+
+  2-ETHYL PYRIDINE:
+    amount: 5
+    units:  KG
+    notes: 
+
+  DELTA-DECALACTONE 10%:
+    amount: 30
+    units:  KG
+    notes: 
+
+  GUAIACOL 10%:
+    amount: 15
+    units:  KG
+    notes: 
+
+  2-HYDROXYACETOPHENONE 1%:
+    amount: 30
+    units:  KG
+    notes: 
+
+  2-FURYL METHYL SULFIDE 1%:
+    amount: 60
+    units:  KG
+    notes: 
+
+  DIALLYL DISULFIDE 1%:
+    amount: 5
+    units:  KG
+    notes: 
+
+  ORTHO-CRESOL 1%:
+    amount: 20
+    units:  KG
+    notes: 
+
+  (E)-2-PENTENAL:
+    amount: 15
+    units:  KG
+    notes: 
+
+  TRIACETIN:
+    amount: 305
+    units:  KG
+    notes: 
+
+  VANILLIN 10%:
+    amount: 10
+    units:  KG
+    notes: 
+
+  ISOBUTYL ACETATE:
+    amount: 30
+    units:  KG
+    notes: 
+
+  LINALYL HEXANOATE:
+    amount: 30
+    units:  KG
+    notes: 
+
+  EUGENOL:
+    amount: 5
+    units:  KG
+    notes: 
+
+  5-METHYL FURFURAL:
+    amount: 60
+    units:  KG
+    notes: 
+
+  METHYL HEPTENONE:
+    amount: 60
+    units:  KG
+    notes: 
+
+  METHYL MERCAPTAN 1%:
+    amount: 30
+    units:  KG
+    notes: 
+
+  METHIONAL:
+    amount: 70
+    units:  KG
+    notes: 
+
+  DIMETHYL SULFIDE:
+    amount: 150
+    units:  KG
+    notes: 
+
+  TERPINEOL:
+    amount: 30
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

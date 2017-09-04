@@ -1,0 +1,212 @@
+flavor_name: PEAR FLAVOR 2 
+Source: Good Scents Company 
+URL: http://www.thegoodscentscompany.com/demos/df1011712.html
+# How much total mass this formula yields
+yields:
+  amount: 999.5
+  unit: KG
+Application: FALSE
+
+info: Patent 4,265,818 Indane alkanols and tricyclic isochromans and organoleptic uses thereof
+
+ingredients:
+
+  VANILLIN:
+    amount: 2
+    units:  KG
+    notes: 
+
+  HEXYL ACETATE:
+    amount: 8
+    units:  KG
+    notes: 
+
+  HEXYL ISOBUTYRATE:
+    amount: 20
+    units:  KG
+    notes: 
+
+  (E)-2-HEXENAL 10%:
+    amount: 2
+    units:  KG
+    notes: 
+
+  APPLE FUSEL OIL:
+    amount: 10
+    units:  KG
+    notes: 
+
+  LINALYL ISOBUTYRATE:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  HEXYL 2-METHYL BUTYRATE:
+    amount: 10
+    units:  KG
+    notes: 
+
+  CLARY SAGE OIL FRANCE 10%:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  CORIANDER SEED OIL:
+    amount: 0.5
+    units:  KG
+    notes: 
+
+  ETHANOL 95%:
+    amount: 146
+    units:  KG
+    notes: 
+
+  PROPYLENE GLYCOL:
+    amount: 800
+    units:  KG
+    notes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
